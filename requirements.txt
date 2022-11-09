@@ -1,0 +1,45 @@
+FER
+tensorflow
+
+
+torch
+torchvision
+torchaudio
+gdcm
+pydicom
+requests
+gdown 
+easydict
+
+
+opencv-python
+Pillow
+PyYAML
+requests
+scipy
+
+
+tqdm
+
+# plotting ------------------------------------
+
+pandas
+seaborn
+
+# deep_sort -----------------------------------
+
+easydict
+
+# torchreid
+
+Cython
+h5py
+six
+tb-nightly
+future
+yacs
+gdown
+flake8
+yapf
+isort
+imageio
