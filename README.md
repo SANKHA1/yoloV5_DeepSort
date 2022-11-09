@@ -1,13 +1,13 @@
 # yoloV5_DeepSort
 
-Yolo_V5 is downloaded
+1. Yolo_V5 is downloaded
 
-Install Deep Sort
+2. Install Deep Sort
 
-Install the requirements from requirements.txt
+3. Install the requirements from requirements.txt
 
-Keep any video in the folder as 'videos'
+4. Keep any video in the folder as 'videos'
 
-Run first 'Emotion_Detection.py' and then run 'track.py'
+5. Run first 'Emotion_Detection.py' and then run 'track.py'
 
-The file 'people.mp4' under the videos folder is the sample input image and the file 'output.mp4' under the folder 'output' is the output.
+6. The file 'people.mp4' under the videos folder is the sample input image and the file 'output.mp4' under the folder 'output' is the output.
