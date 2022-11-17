@@ -13,5 +13,8 @@
 6. The file 'people.mp4' under the videos folder is the sample input image and the file 'output.mp4' under the folder 'output' is the output.
 
 
+The output looks like this:-
+
+
 https://user-images.githubusercontent.com/45727862/202457600-fec29a03-3c61-4486-a819-6c61b634ac24.mp4
 
